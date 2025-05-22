@@ -236,7 +236,7 @@ export default function Home() {
             <div className="space-y-3 mb-8">
               {[
                 "Komprehensibong listahan ng mga terminolohiya",
-                "Kwento bawal levels",
+                "Kwento bawat levels",
                 "Mini Games na nakakaengganyo",
               ].map((feature, index) => (
                 <motion.div
