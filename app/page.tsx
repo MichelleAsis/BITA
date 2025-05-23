@@ -260,7 +260,7 @@ export default function Home() {
               className="space-y-4"
             >
               <a
-                href="https://www.mediafire.com/file/8quubf05bortdiw/BITA.apk/file"
+                href="https://www.mediafire.com/file/ouhcco6qyel0zki/BitaVersion3.apk/file"
                 target="_blank"
                 rel="noopener noreferrer"
                 onMouseEnter={() => setIsHovering(true)}
